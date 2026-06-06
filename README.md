@@ -10,7 +10,7 @@
 
 Mac Pro 2013。垃圾桶。2013 年發表，Intel Xeon + AMD FirePro 雙卡，當年是工作站級的神器。
 
-但現在是 2025 年。Apple Silicon 已經出到 M5，這台 Intel Mac 連 macOS Sequoia 都要靠 OpenCore Legacy Patcher 才能裝上去。FirePro D300 只有 2GB VRAM、GCN 1.0 架構，連 Metal 3 都不支援。
+但現在是 2026 年。Apple Silicon 已經出到 M5，這台 Intel Mac 連 macOS Sequoia 都要靠 OpenCore Legacy Patcher 才能裝上去。FirePro D300 只有 2GB VRAM、GCN 1.0 架構，連 Metal 3 都不支援。
 
 大多數人會說：「買 M4 Mac mini 吧，別折騰了。」
 
@@ -199,3 +199,5 @@ llama-server \
 ## License
 
 MIT
+/bin/bash: line 4: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/hermes-snap-75ebe727f72a.sh: Permission denied
+/bin/bash: line 5: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/hermes-cwd-75ebe727f72a.txt: Permission denied

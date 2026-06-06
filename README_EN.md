@@ -10,7 +10,7 @@
 
 The Mac Pro 2013. The trash can. Released in 2013 with Intel Xeon + dual AMD FirePro GPUs — a workstation beast in its day.
 
-But this is 2025. Apple Silicon is on M5. This Intel Mac can only run macOS Sequoia thanks to OpenCore Legacy Patcher. The FirePro D300 has 2GB VRAM on a GCN 1.0 architecture that doesn't even support Metal 3.
+But this is 2026. Apple Silicon is on M5. This Intel Mac can only run macOS Sequoia thanks to OpenCore Legacy Patcher. The FirePro D300 has 2GB VRAM on a GCN 1.0 architecture that doesn't even support Metal 3.
 
 Most people would say: "Just buy an M4 Mac mini. Stop suffering."
 
@@ -197,3 +197,5 @@ llama-server \
 ## License
 
 MIT
+/bin/bash: line 4: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/hermes-snap-75ebe727f72a.sh: Permission denied
+/bin/bash: line 5: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/hermes-cwd-75ebe727f72a.txt: Permission denied
