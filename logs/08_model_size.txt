@@ -1,1 +1,1 @@
--rw-r--r--  1 linhengyu  staff   2.3G  6  6 17:47 /Users/linhengyu/llm_macpro2013_test/models/qwen3-4b/Qwen3-4B-Q4_K_M.gguf
+-rw-r--r--  1 [user]  staff   2.3G  6  6 17:47 ~/llm_macpro2013_test/models/qwen3-4b/Qwen3-4B-Q4_K_M.gguf

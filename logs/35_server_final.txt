@@ -8,7 +8,7 @@
 0.00.101.525 I srv          init: using 11 threads for HTTP server
 0.00.103.169 I srv         start: binding port with default address family
 0.00.105.068 I srv  llama_server: loading model
-0.00.105.370 I srv    load_model: loading model '/Users/linhengyu/llm_macpro2013_test/models/qwen3-4b/Qwen3-4B-Q4_K_M.gguf'
+0.00.105.370 I srv    load_model: loading model '~/llm_macpro2013_test/models/qwen3-4b/Qwen3-4B-Q4_K_M.gguf'
 0.00.106.346 I common_init_result: fitting params to device memory ...
 0.00.106.351 I common_init_result: (for bugs during this step try to reproduce them with -fit off, or provide --verbose logs if the bug only occurs with -fit on)
 0.00.675.482 W load: control-looking token: 128247 '</s>' was not control-type; this is probably a bug in the model. its type will be overridden

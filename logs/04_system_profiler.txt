@@ -88,9 +88,11 @@ Software:
       Kernel Version: Darwin 24.6.0
       Boot Volume: samsung
       Boot Mode: Normal
-      Computer Name: 林恆宇的Mac Pro
-      User Name: 林恆宇 (linhengyu)
+      Computer Name: MacPro6,1
+      User Name: [redacted]
       Secure Virtual Memory: Enabled
       System Integrity Protection: Disabled
       Time since boot: 19分鐘14秒
 
+/bin/bash: line 4: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/hermes-snap-75ebe727f72a.sh: Permission denied
+/bin/bash: line 5: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/hermes-cwd-75ebe727f72a.txt: Permission denied
