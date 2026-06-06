@@ -1,0 +1,96 @@
+2026-06-06 13:42:15.899 system_profiler[1959:26542] Device PreExisted [000000010000078b] AMD Radeon HD - FirePro D300
+2026-06-06 13:42:15.900 system_profiler[1959:26542] Device PreExisted [0000000100000788] AMD Radeon HD - FirePro D300
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: Mac Pro
+      Model Identifier: MacPro6,1
+      Processor Name: 6-Core Intel Xeon E5
+      Processor Speed: 3.5 GHz
+      Number of Processors: 1
+      Total Number of Cores: 6
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 12 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 32 GB
+      System Firmware Version: 481.0.0.0.0
+      OS Loader Version: 583~2317
+      SMC Version (system): 2.20f18
+      Panel Illumination Version: 1.4a6
+      Serial Number (system): F5KT5AYSF9VM
+      Hardware UUID: 14113D08-143E-035C-A79F-06718AD29155
+      Provisioning UDID: 14113D08-143E-035C-A79F-06718AD29155
+
+Graphics/Displays:
+
+    AMD FirePro D300:
+
+      Chipset Model: AMD FirePro D300
+      Type: GPU
+      Bus: PCIe
+      Slot: Slot-1
+      PCIe Lane Width: x16
+      VRAM (Total): 2 GB
+      Vendor: AMD (0x1002)
+      Device ID: 0x6810
+      Revision ID: 0x0000
+      ROM Revision: 113-C4012F-687
+      VBIOS Version: 113-C4012PA-012
+      EFI Driver Version: 01.0D.687
+      Automatic Graphics Switching: Supported
+      gMux Version: 4.0.11 [3.2.8]
+      Metal Support: Metal 2
+      Connection Type: No Display Connected
+
+    AMD FirePro D300:
+
+      Chipset Model: AMD FirePro D300
+      Type: GPU
+      Bus: PCIe
+      Slot: Slot-2
+      PCIe Lane Width: x16
+      VRAM (Total): 2 GB
+      Vendor: AMD (0x1002)
+      Device ID: 0x6810
+      Revision ID: 0x0000
+      ROM Revision: 113-C4012F-687
+      VBIOS Version: 113-C4012PB-012
+      EFI Driver Version: 01.0D.687
+      Automatic Graphics Switching: Supported
+      gMux Version: 4.0.11 [3.2.8]
+      Metal Support: Metal 2
+      Displays:
+        GM271U:
+          Resolution: 2160 x 3840
+          UI Looks like: 1080 x 1920 @ 60.00Hz
+          Framebuffer Depth: 30-Bit Color (ARGB2101010)
+          Mirror: Off
+          Online: Yes
+          Rotation: 90
+          Connection Type: Thunderbolt/DisplayPort
+        MSI MD272UPH:
+          Resolution: 3840 x 2160 (2160p/4K UHD 1 - Ultra High Definition)
+          UI Looks like: 1920 x 1080 @ 60.00Hz
+          Framebuffer Depth: 30-Bit Color (ARGB2101010)
+          Display Serial Number: PB1HJ35100007
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Rotation: Supported
+          Connection Type: Thunderbolt/DisplayPort
+
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 15.7.1 (24G231)
+      Kernel Version: Darwin 24.6.0
+      Boot Volume: samsung
+      Boot Mode: Normal
+      Computer Name: 林恆宇的Mac Pro
+      User Name: 林恆宇 (linhengyu)
+      Secure Virtual Memory: Enabled
+      System Integrity Protection: Disabled
+      Time since boot: 19分鐘14秒
+

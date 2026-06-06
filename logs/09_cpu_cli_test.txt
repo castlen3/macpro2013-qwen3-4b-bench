@@ -1,0 +1,100 @@
+
+Loading model... |-\|/-\|/-\|/-\|/-\|/-\ 
+
+
+▄▄ ▄▄
+██ ██
+██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄
+██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██
+██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀
+                                    ██    ██
+                                    ▀▀    ▀▀
+
+build      : b9538-5343f4502
+model      : Qwen3-4B-Q4_K_M.gguf
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read <file>        add a text file
+  /glob <pattern>     add text files using globbing pattern
+
+
+> 請用繁體中文簡短介紹你自己，並說明你正在 Mac Pro 2013 上執行。
+
+| [Start thinking]
+嗯，用户让我用繁体中文简短介绍自己，并说明我正在Mac Pro 2013上执行。首先，我需要确认用户的需求。他们可能是在测试我的多语言能力，或者想确认我的系统信息。不过，用户提到的是Mac Pro 2013，这个型号可能比较旧，但用户可能对硬件有特别的需求，比如兼容性或者特定功能。
+
+接下来，我需要考虑如何用繁体中文简洁回答。首先，自我介绍部分需要包括我的名称、功能和能力，比如自然语言处理、多语言支持等。然后要说明当前
+
+[ Prompt: 14.5 t/s | Generation: 13.1 t/s ]
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 

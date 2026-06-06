@@ -1,0 +1,100 @@
+
+Loading model... |-\|/-\|/-\|/- 
+
+
+▄▄ ▄▄
+██ ██
+██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄
+██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██
+██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀
+                                    ██    ██
+                                    ▀▀    ▀▀
+
+build      : b9538-5343f4502
+model      : Qwen3-4B-Q4_K_M.gguf
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read <file>        add a text file
+  /glob <pattern>     add text files using globbing pattern
+
+
+> 請用繁體中文簡短回答：flash attention 是什麼？
+
+| [Start thinking]
+好的，用户问的是“flash attention 是什麼？”，需要用繁體中文简短回答。首先，我得确认自己对Flash Attention的理解是否正确。Flash Attention是一种注意力机制的变体，主要用于Transformer模型中，旨在提高计算效率。它通过优化注意力计算的过程，减少内存占用和计算时间，特别是在处理长序列时更有效。
+
+接下来，我要确保回答准确且简洁。用户可能对技术细节不太熟悉，所以需要避免使用过于专业的术语
+
+[ Prompt: 19.7 t/s | Generation: 13.3 t/s ]
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 

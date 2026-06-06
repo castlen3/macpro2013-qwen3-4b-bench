@@ -1,0 +1,100 @@
+
+Loading model... |-\|/-\|/-\|/-\|/-\ 
+
+
+▄▄ ▄▄
+██ ██
+██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄
+██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██
+██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀
+                                    ██    ██
+                                    ▀▀    ▀▀
+
+build      : b9538-5343f4502
+model      : Qwen3-4B-Q4_K_M.gguf
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read <file>        add a text file
+  /glob <pattern>     add text files using globbing pattern
+
+
+> 請用繁體中文簡短介紹你自己，並說明你正在測試 Metal GPU offload。
+
+| [Start thinking]
+好的，用户让我用繁體中文簡短介紹自己，并說明正在測試 Metal GPU offload。首先，我需要确认用户的需求。他们可能是在开发或者测试某个与Metal相关的GPU加速功能，需要一个简短的自我介绍，并说明测试的用途。
+
+接下来，我需要确保使用繁體中文，所以要注意用词和标点。自我介绍部分要简洁，包括名称、功能和用途。然后说明正在测试Metal GPU offload，可能需要提到这是用于优化图形处理或加速计算任务，比如游戏、视频处理等。
+
+另外，用户可能希望内容专业但不过
+
+[ Prompt: 14.0 t/s | Generation: 1.9 t/s ]
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
